@@ -1,0 +1,2 @@
+# VehicleSaleInventory
+ EF Core 

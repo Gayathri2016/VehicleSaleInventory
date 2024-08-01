@@ -1,0 +1,6 @@
+@VehicleSaleInventory_HostAddress = http://localhost:5260
+
+GET {{VehicleSaleInventory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
