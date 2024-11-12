@@ -136,3 +136,5 @@
 /Users/gayathrimahamkali/Projects/Coding/DotNet/VehicleSaleInventory/obj/Debug/net8.0/VehicleSaleInventory.pdb
 /Users/gayathrimahamkali/Projects/Coding/DotNet/VehicleSaleInventory/obj/Debug/net8.0/VehicleSaleInventory.genruntimeconfig.cache
 /Users/gayathrimahamkali/Projects/Coding/DotNet/VehicleSaleInventory/obj/Debug/net8.0/ref/VehicleSaleInventory.dll
+/Users/gayathrimahamkali/Projects/Coding/DotNet/VehicleSaleInventory/bin/Debug/net8.0/Bogus.dll
+/Users/gayathrimahamkali/Projects/Coding/DotNet/VehicleSaleInventory/obj/Debug/net8.0/VehicleSaleInventory.sourcelink.json

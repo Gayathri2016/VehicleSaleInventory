@@ -15,8 +15,11 @@ public class Startup
     public void ConfigureServices(IServiceCollection services)
     {
         services.AddControllers();
+        
+        
 
         services.AddDbContext<VehicleContext>(options =>
+           
             options.UseSqlServer(Microsoft.Extensions.Configuration.ConfigurationExtensions.GetConnectionString(Configuration, "DefaultConnection")));
     }
 
